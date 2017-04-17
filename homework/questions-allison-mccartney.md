@@ -33,10 +33,6 @@
  
  Looking at your [portfolio](http://amccartney.github.io/portfolio/), I saw that you have skills in graphic design and illustration. How important do you think it is for a news application or data visualization to be not just intuitively designed, but aesthetically pleasing? In other words, do these findings resonate any more with an audience when they're pretty than when the design is just blah?  
  
- ### 5. Stories the movie team missed
-  
- If you were to direct a movie or write a book about a pivotal investigative journalism piece you worked on besides the priest scandal, what would it be and why? 
-
- ### 6. Data journalism and political implications
+ ### 5. Data journalism and political implications
 
  One of your recent projects was [The Wall](http://apps.revealnews.org/border-wall/). Projects like this are especially interesting ot me because they directly respond to government policy. How, if at all, do you think your work or its importance will change given the current political climate in the United States? How does data make a difference in the "real world"? 
