@@ -12,7 +12,7 @@
  
  ### 1. Digging for a story
  
- I thought your report on [Texas traffic courts]https://www.buzzfeed.com/kendalltaggart/in-texas-its-a-crime-to-be-poor?utm_term=.hjaWO5X8#.fdPkZo5y) was really great. There was a great combination of compelling personal narrative, great quotes from the clueless judges, historical context, and court records data to back up the story. How did you get wind of this story, and decide it was worth investing all that time into? How long did the reporting process take, particularly going through the court records? Was it all done by hand? 
+ I thought your report on [Texas traffic courts](https://www.buzzfeed.com/kendalltaggart/in-texas-its-a-crime-to-be-poor?utm_term=.hjaWO5X8#.fdPkZo5y) was really great. There was a great combination of compelling personal narrative, great quotes from the clueless judges, historical context, and court records data to back up the story. How did you get wind of this story, and decide it was worth investing all that time into? How long did the reporting process take, particularly going through the court records? Was it all done by hand? 
   
  ### 2. Investigative reporting and causing societal change
  
